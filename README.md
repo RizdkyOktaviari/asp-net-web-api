@@ -8,5 +8,6 @@ Setelah Anda meng-clone repositori dan memenuhi persyaratan sistem, buka folder 
 
 ```bash
 cd nama-folder-repositori
+```
 dotnet build
 dotnet run
